@@ -1,0 +1,10 @@
+# Ignorer les clés SSH privées
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+static/bob_priv.pem
+
+# Ignorer dossier .ssh par précaution
+.ssh/
+
